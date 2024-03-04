@@ -3,6 +3,7 @@ package biblioteka;
 import java.util.Objects;
 
 public class Autor {
+	//javni tekst
 private String ime;
 private String prezime;
 public String getIme() {
